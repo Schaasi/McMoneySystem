@@ -1,0 +1,10 @@
+main: de.schaasi.moneySystem.MoneySystem
+name: MoneySystem
+version: 1.0
+api-version: 1.16
+commands:
+  moneyLog:
+  money:
+  pay:
+  moneysystem:
+  testdata:
